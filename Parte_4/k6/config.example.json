@@ -1,0 +1,21 @@
+{
+  "baseUrl": "http://127.0.0.1:8080",
+  "vus": 100,
+  "loginPath": "/REPLACE_WITH_VERIFIED_LOGIN_PATH",
+  "loginBodyTemplate": {
+    "cpf": "{{cpf}}",
+    "password": "{{password}}"
+  },
+  "loginTokenJsonPath": "accessToken",
+  "authScheme": "Bearer",
+  "agendaPathTemplate": "/REPLACE_WITH_VERIFIED_AGENDA_PATH?date={{date}}",
+  "appointmentPath": "/REPLACE_WITH_VERIFIED_CREATE_PATH",
+  "appointmentBodyTemplate": {
+    "date": "{{date}}",
+    "time": "{{time}}",
+    "name": "{{patient_name}}",
+    "phone": "{{phone}}"
+  },
+  "appointmentIdJsonPath": "id",
+  "cleanupPathTemplate": "/REPLACE_WITH_VERIFIED_DELETE_PATH/{{id}}"
+}
