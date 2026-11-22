@@ -10,6 +10,7 @@
 
 Resultado Obtido: Agendamento é feito mesmo com a agenda bloqueada
 Evidencia: Parte_1\Bugs\Bug1_Bloqueio_Agenda.mp4
+Video anexado com nome de BUGS_1-2.7z
 
 ## BUG02 - Erro ao ativar o portal do Paciente
 # Passos:
@@ -20,6 +21,7 @@ Evidencia: Parte_1\Bugs\Bug1_Bloqueio_Agenda.mp4
 
 Resultado Obtido: Mensagem de erro: "Erro ao autalizar cadastro"
 Evidencia: Parte_1\Bugs\Bug2_Ativar_portal_paciente.mp4
+Video anexado com nome de BUGS_1-2.7z
 
 ## BUG03 - É possivel realizar agendamento no passado
 # Passos:
@@ -31,6 +33,7 @@ Evidencia: Parte_1\Bugs\Bug2_Ativar_portal_paciente.mp4
 
 Resultado Obtido: Agendamento é feito mesmo no passado
 Evidencia: Parte_1\Bugs\Bug3_AgendamentoPassado.mp4
+Video anexado com nome de BUGS_3-4-5.7z
 
 ## BUG04 - É possivel realizar agendamento duplicado para o mesmo paciente
 # Passos:
@@ -44,6 +47,7 @@ Evidencia: Parte_1\Bugs\Bug3_AgendamentoPassado.mp4
 
 Resultado Obtido: Agendamento é feito duas vezes para o mesmo paciente
 Evidencia: Parte_1\Bugs\Bug4_2agendamentos_paciente.mp4
+Video anexado com nome de BUGS_3-4-5.7z
 
 ## BUG05 - É possivel realizar Bloqueio/Desbloqueio em dia que já está Bloqueado/Desbloqueado
 # Passos:
@@ -56,3 +60,4 @@ Evidencia: Parte_1\Bugs\Bug4_2agendamentos_paciente.mp4
 Resultado Obtido: O sistema realiza o bloqueio em um dia que ja estava bloqueado
 OBS: O mesmo ocorre com a funcionalidade desbleio em dia desbloqueado
 Evidencia: Parte_1\Bugs\BUG5_bloqueio_desbloqueio.mp4
+Video anexado com nome de BUGS_3-4-5.7z
